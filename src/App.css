@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+}
+.form-title{
+
+  
+  background-color: aqua;
+  width: 180px;
+  
+}
+.block{
+
+  color: brown;
+  width: 180px;
+
+  align-items: center;
+  text-align: center;
+} */
+button {
+  padding: 15px 20px;
+  background-color: #9b59b6;
+  color: white;
+  border: 2px solid #ecf0f1;
+  outline:none;
+  border-radius: 5px;
+  cursor: pointer;
 }
